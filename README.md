@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=120&section=header&text=끊임없이%20개발해나가고%20도전하려는%20개발자입니다&fontSize=90&fontColor=fafafa&animation=twinkling&fontSize=24)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=120&section=header&text=개발을%20좋아하고%20성장해나가는%20개발자입니다&fontSize=90&fontColor=fafafa&animation=twinkling&fontSize=24)
 
 
 ## 기술 스택
