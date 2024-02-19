@@ -1,6 +1,6 @@
 끊임없이 개발해나가는 개발자입니다. 
 
-## 프론트엔드
+## 기술 스택
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF)](https://blog.ssssksss.xyz/blog?first-category=27&second-category=20)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF)](https://blog.ssssksss.xyz/blog?first-category=27&second-category=21)
 [![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=fafafa)](https://blog.ssssksss.xyz/blog?first-category=27&second-category=25)
@@ -11,28 +11,14 @@
 [![redux](https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=FFFFFF)]()
 [![react-query](https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=FFFFFF)]()
 [![axios](https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=axios&logoColor=FFFFFF)]()
-
-<br/>
-
-## 백엔드
 [![springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF)]()
 [![springsecurity](https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=FFFFFF)]()
-
-<br/>
-
-## 서버 & DB
 [![nestjs](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=FFFFFF)]()
 [![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=333333)]()
 [![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=FFFFFF)]()
 [![amazons3](https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=FFFFFF)]()
-
-<br/>
-
-## 기타
 [![figma](https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=FFFFFF)]()
 [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=FFFFFF)]()
-
-<br/>
 
 ## 잠깐 해봤거나 미숙한 것들
 
