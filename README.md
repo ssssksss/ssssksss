@@ -1,3 +1,4 @@
+끊임없이 개발해나가는 개발자입니다. 
 
 ## 프론트엔드
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF)](https://blog.ssssksss.xyz/blog?first-category=27&second-category=20)
