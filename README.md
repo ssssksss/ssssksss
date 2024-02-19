@@ -1,4 +1,7 @@
-끊임없이 개발해나가는 개발자입니다. 
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=120&section=header&text=%20가출한토토로&fontSize=90&fontColor=fafafa&animation=twinkling&fontSize=24)
+
+끊임없이 개발해나가고 도전하려는 개발자입니다. 
 
 ## 기술 스택
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF)](https://blog.ssssksss.xyz/blog?first-category=27&second-category=20)
