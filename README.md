@@ -34,7 +34,7 @@
 
 <br/>
 
-## 해본것들
+## 잠깐 해봤거나 미숙한 것들
 
 [![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF)]()
 [![storybook](https://img.shields.io/badge/storybook-FF4785?style=flat-square&logo=storybook&logoColor=FFFFFF)]()
